@@ -8,11 +8,12 @@
 
 import React from 'react';
 import Transitions from './src/transitions/transitions';
+import UseTransition from './src/useTransition/useTransition';
 
 const App: () => React$Node = () => {
   return (
     <>
-      <Transitions />
+      <UseTransition />
     </>
   );
 };

@@ -1,5 +1,5 @@
 import React, { useRef, useState } from 'react';
-import { Dimensions, StyleSheet, View, SafeAreaView } from 'react-native';
+import { Dimensions, StyleSheet, View, SafeAreaView, TouchableOpacity, Text } from 'react-native';
 import { Transition, Transitioning } from 'react-native-reanimated';
 
 import StyleGuide from '../components/StyleGuide';

@@ -33,7 +33,6 @@ const StyleGuide = {
     headline: {
       fontSize: 17,
       lineHeight: 22,
-      fontFamily: 'SFProText-Semibold',
     },
     subhead: {
       fontSize: 15,
