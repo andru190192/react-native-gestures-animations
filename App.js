@@ -9,11 +9,12 @@
 import React from 'react';
 import Transitions from './src/transitions/transitions';
 import UseTransition from './src/useTransition/useTransition';
+import DarkMode from './src/darkMode';
 
 const App: () => React$Node = () => {
   return (
     <>
-      <UseTransition />
+      <DarkMode />
     </>
   );
 };
